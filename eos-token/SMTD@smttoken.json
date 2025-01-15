@@ -1,0 +1,17 @@
+{
+  "symbol": "SMTD",
+  "name": "SMT Token",
+  "type": "ERC20",
+  "address": "0xC01EaabB2277842e5B3B04E95F3e6Ca0Bea30A0d",
+  "decimals": 18,
+  "logo": "https://photos.pinksale.finance/file/pinksale-logo-upload/1736748109911-11ab3d0dac936c298d6bd3e62b6b4a37.png",
+  "website": "https://smtchgz.cn",
+  "description": "SMT Token (SMTD) is a digital currency designed to facilitate global business transactions and enhance trade services. It is backed by SMT Advanced Business Co., Ltd., a company specializing in intermediary services, project management, and logistics solutions for businesses purchasing products from China to markets worldwide.",
+  "explorer": "https://etherscan.io/token/0xC01EaabB2277842e5B3B04E95F3e6Ca0Bea30A0d",
+  "socials": {
+    "twitter": "https://twitter.com/SMTAdvanced",
+    "telegram": "https://t.me/SMTAdvanced",
+    "linkedin": "https://www.linkedin.com/company/smt-advanced-business"
+  },
+  "tags": ["business", "logistics", "global trade", "digital currency"]
+}
