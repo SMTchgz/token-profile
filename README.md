@@ -35,8 +35,3 @@ For inquiries, feel free to reach out to us via:
 Join the Global Trade Revolution with SMTD
 
 Invest in SMTD today and be part of the future of global commerce!
-
-How to Update
-	•	Click the Edit button in the image provided.
-	•	Copy and paste the above content into the README.md file.
-	•	Save the changes using the Commit changes option.
