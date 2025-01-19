@@ -4,7 +4,7 @@
   "type": "ERC20",
   "address": "0xC01EaabB2277842e5B3B04E95F3e6Ca0Bea30A0d",
   "decimals": 18,
-  "logo": "https://github.com/SMTchgz/token-profile/raw/master/eos-token/SMTD@smtoken.png",
+  "logo": ""logo": "https://github.com/SMTchgz/token-profile/raw/master/images/SMTD@smtoken.png",
   "website": "https://smtchgz.cn/smtd",
   "description": "SMTD Token is a blockchain-based digital currency designed to simplify global trade and enhance business transactions. SMTD provides secure, transparent, and efficient solutions for businesses worldwide.",
   "explorer": "https://etherscan.io/token/0xC01EaabB2277842e5B3B04E95F3e6Ca0Bea30A0d",
