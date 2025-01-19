@@ -1,35 +1,42 @@
-# Token Profile Guideline
+SMTD Token Profile
 
-*Read this in other languages: [English](README.md), [简体中文](README.zh-CN.md).*
+SMTD Token is a blockchain-based digital currency designed to simplify global trade and enhance business transactions. SMTD provides secure, transparent, and efficient solutions for businesses worldwide.
 
-This repository (repo) provides the details about self-submitting **Token** information to imToken via GitHub.
+Token Information
+	•	Token Name: SMT Token (SMTD)
+	•	Symbol: SMTD
+	•	Type: ERC-20
+	•	Smart Contract Address:
+0xC01EaabB2277842e5B3B04E95F3e6Ca0Bea30A0d
+	•	Decimals: 18
 
-## What is Token Profile?
+Project Vision
 
-Token Profile is the detailed information of the token issued by the project party. imToken 2.0 provides a dedicated display page for the Token Profile, to give users a more complete overview of tokens.
-The page is located at:
-**Wallet(tab)** -> **Token(for example, ETH)** -> **Token Profile Button(right-top corner)**.
+SMTD aims to revolutionize global trade by offering a blockchain-powered financial system that delivers faster and more secure transactions for businesses and individuals.
 
+Advantages of SMTD
+	1.	Transparency:
+	•	Blockchain technology ensures transparency in all financial operations.
+	2.	Security:
+	•	SMTD guarantees secure transactions through smart contracts.
+	3.	Ease of Use:
+	•	Designed for both businesses and individuals across various sectors.
 
+Key Links
+	•	Official Website: smtchgz.cn/smtd
+	•	Explorer: Etherscan
+	•	Telegram: https://t.me/SMTD_SMT_China
 
-The page is displayed as follows:
+Contact Us
 
-![Wallet Tab](tutorial/sample.png)
+For inquiries, feel free to reach out to us via:
+	•	Email: o.hamid@smtchgz.cn & info@smtchgz.cn
 
+Join the Global Trade Revolution with SMTD
 
-##  Overview
+Invest in SMTD today and be part of the future of global commerce!
 
-imToken supports the submission of ERC20 and EOS Token Profile, please select the corresponding tutorial to understand the specific procedures:
-- [ERC20 Token Profile Guideline](tutorial/erc20-tutorial.en.md)
-- [EOS Token Profile Guideline](tutorial/eos-tutorial.en.md)
-
-
-## Suggestions
-
-Since the submission of the Token Profile involves many aspects: GitHub usage, Logo design, project information introduction etc, we recommend that the **Token Profile submission to be done by your market operations staff, developers, and designers together.**
-
-imToken will process the application within 5 business days.
-
-## Copyright
-
-2021&copy;imToken PTE. LTD.
+How to Update
+	•	Click the Edit button in the image provided.
+	•	Copy and paste the above content into the README.md file.
+	•	Save the changes using the Commit changes option.
