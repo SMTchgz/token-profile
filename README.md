@@ -1,37 +1,69 @@
 SMTD Token Profile
 
-SMTD Token is a blockchain-based digital currency designed to simplify global trade and enhance business transactions. SMTD provides secure, transparent, and efficient solutions for businesses worldwide.
+SMTD Token is a blockchain-based digital currency designed to simplify global trade and enhance business transactions. It provides secure, transparent, and efficient solutions for businesses worldwide, enabling seamless cross-border payments and supply chain management.
 
-Token Information
+🔹 Token Information
 	•	Token Name: SMT Token (SMTD)
 	•	Symbol: SMTD
-	•	Type: ERC-20
-	•	Smart Contract Address:
-0xC01EaabB2277842e5B3B04E95F3e6Ca0Bea30A0d
-	•	Decimals: 18
+	•	Type: BEP-20 (Binance Smart Chain)
+	•	Smart Contract Address: 0xC01EaabB2277842e5B3B04E95F3e6Ca0Bea30A0d
+	•	Decimals: 10
 
-Project Vision
+🌍 Project Vision
 
-SMTD aims to revolutionize global trade by offering a blockchain-powered financial system that delivers faster and more secure transactions for businesses and individuals.
+SMTD aims to revolutionize global trade by offering a blockchain-powered financial system that delivers faster, more secure, and cost-efficient transactions for businesses and individuals.
 
-Advantages of SMTD
-	1.	Transparency:
-	•	Blockchain technology ensures transparency in all financial operations.
-	2.	Security:
-	•	SMTD guarantees secure transactions through smart contracts.
-	3.	Ease of Use:
-	•	Designed for both businesses and individuals across various sectors.
+💡 Key Advantages of SMTD
 
-Key Links
-	•	Official Website: smtchgz.cn/smtd
-	•	Explorer: Etherscan
-	•	Telegram: https://t.me/SMTD_SMT_China
+1️⃣ Transparency
+	•	Blockchain technology ensures immutable and verifiable financial operations.
 
-Contact Us
+2️⃣ Security
+	•	SMTD leverages smart contracts to guarantee secure and fraud-resistant transactions.
 
-For inquiries, feel free to reach out to us via:
-	•	Email: o.hamid@smtchgz.cn & info@smtchgz.cn
+3️⃣ Efficiency & Speed
+	•	Designed for businesses and individuals, enabling instant global transactions with lower fees.
 
-Join the Global Trade Revolution with SMTD
+4️⃣ Global Accessibility
+	•	Borderless transactions, making international trade more accessible and efficient.
 
-Invest in SMTD today and be part of the future of global commerce!
+🔗 Key Links
+
+🌍 Official Website:
+	•	https://smtchgz.cn/smtd
+
+🔎 Blockchain Explorer (BscScan):
+	•	https://bscscan.com/token/0xC01EaabB2277842e5B3B04E95F3e6Ca0Bea30A0d
+
+📢 Telegram Community:
+	•	https://t.me/SMTD_SMT_China
+
+📜 Whitepaper:
+	•	https://smtchgz.cn/wp-content/uploads/2025/02/WP.pdf
+
+📂 GitHub Token Profile:
+	•	https://github.com/SMTchgz/token-profile
+
+🐦 Twitter (X):
+	•	https://x.com/smt_china
+
+🎥 TikTok:
+	•	https://www.tiktok.com/@smt_china
+
+📊 Liquidity & Market Information:
+🔹 PancakeSwap Trading Pair:
+	•	https://pancakeswap.finance/swap?outputCurrency=0xC01EaabB2277842e5B3B04E95F3e6Ca0Bea30A0d
+
+🔹 DEXTools Market Tracker:
+	•	https://www.dextools.io/app/bnb/pair-explorer/0xC01EaabB2277842e5B3B04E95F3e6Ca0Bea30A0d
+
+📩 Contact Us
+
+For any inquiries or partnership opportunities, feel free to reach out:
+✉️ Email:
+	•	o.hamid@smtchgz.cn
+	•	info@smtchgz.cn
+
+🚀 Join the Global Trade Revolution with SMTD!
+
+Invest in SMTD today and become part of the future of global commerce!
