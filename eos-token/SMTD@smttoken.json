@@ -1,17 +1,31 @@
 {
   "symbol": "SMTD",
   "name": "SMT Token",
-  "type": "ERC20",
-  "address": "0xC01EaabB2277842e5B3B04E95F3e6Ca0Bea30A0d",
-  "decimals": 18,
+  "type": "BEP20",
+  "address": "0xc01eaabb2277842e5b3b04e95f3e6ca0bea30a0d",
+  "decimals": 10,
   "logo": "https://photos.pinksale.finance/file/pinksale-logo-upload/1736748109911-11ab3d0dac936c298d6bd3e62b6b4a37.png",
   "website": "https://smtchgz.cn",
-  "description": "SMT Token (SMTD) is a digital currency designed to facilitate global business transactions and enhance trade services. It is backed by SMT Advanced Business Co., Ltd., a company specializing in intermediary services, project management, and logistics solutions for businesses purchasing products from China to markets worldwide.",
-  "explorer": "https://etherscan.io/token/0xC01EaabB2277842e5B3B04E95F3e6Ca0Bea30A0d",
+  "description": "SMT Token (SMTD) is a blockchain-based digital currency designed to facilitate global business transactions and enhance trade services. It is backed by SMT Advanced Business Co., Ltd., a company specializing in intermediary services, project management, and logistics solutions for businesses purchasing products from China to markets worldwide.",
+  "explorer": "https://bscscan.com/token/0xc01eaabb2277842e5b3b04e95f3e6ca0bea30a0d",
+  "total_supply": 19000000,
+  "circulating_supply": 10000000,
+  "locked_supply": {
+    "smart_contract": 9000000,
+    "foundation_wallet": 9230000
+  },
+  "market_availability": {
+    "available_for_public_trading": 9770000
+  },
+  "liquidity": {
+    "pancakeswap": "https://pancakeswap.finance/swap?outputCurrency=0xc01eaabb2277842e5b3b04e95f3e6ca0bea30a0d",
+    "dex_tools": "https://www.dextools.io/app/bnb/pair-explorer/0xc01eaabb2277842e5b3b04e95f3e6ca0bea30a0d"
+  },
   "socials": {
     "twitter": "https://twitter.com/SMTAdvanced",
-    "telegram": "https://t.me/SMTAdvanced",
-    "linkedin": "https://www.linkedin.com/company/smt-advanced-business"
+    "telegram": "https://t.me/SMTD_SMT_China",
+    "linkedin": "https://www.linkedin.com/company/smt-advanced-business/"
   },
+  "whitepaper": "https://smtchgz.cn/wp-content/uploads/2025/02/WP.pdf",
   "tags": ["business", "logistics", "global trade", "digital currency"]
 }
