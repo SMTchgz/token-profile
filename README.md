@@ -30,7 +30,7 @@ SMTD aims to revolutionize global trade by offering a blockchain-powered financi
 🔗 Key Links
 
 🌍 Official Website:
-	•	https://smtchgz.cn/smtd
+	•	https://www.smtd.ai
 
 🔎 Blockchain Explorer (BscScan):
 	•	https://bscscan.com/token/0xC01EaabB2277842e5B3B04E95F3e6Ca0Bea30A0d
@@ -62,7 +62,7 @@ SMTD aims to revolutionize global trade by offering a blockchain-powered financi
 For any inquiries or partnership opportunities, feel free to reach out:
 ✉️ Email:
 	•	o.hamid@smtchgz.cn
-	•	info@smtchgz.cn
+	•	info@smtd.ai
 
 🚀 Join the Global Trade Revolution with SMTD!
 
